@@ -1,5 +1,5 @@
-# Bharat-Internship-Task-1-Auto-Correction-Tool
-ARTIFICIAL INTELLIGENCE  INTERNSHIP
+# Auto Correction Tool
+
 The AI spell checker should be able to do both of those things.
 
 Correct the word: If the AI is confident that it knows the correct spelling of a word, it should correct the word. For example, if the user enters the word "hte" instead of "the," the AI should correct the word to "the."
